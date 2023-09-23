@@ -14,7 +14,7 @@ Zork. The Hitchhiker's Guide to the Galaxy. Dungeon Man. These games shaped all 
 - Secure login over HTTPS
 - Progress stored persistently
 - Manual save button, logout button, etc. 
-- Real time "canned" messaging system, with room information available
+- Real time "canned" messaging system
 - Page that displays username and number of commands used to win
 
 ### Technologies
