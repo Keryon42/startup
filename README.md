@@ -4,7 +4,7 @@ Zork. The Hitchhiker's Guide to the Galaxy. Dungeon Man. These games shaped all 
 
 ### Design
 
-![Mock](voterMockUI.jpg)
+![Login Screen]()
 
 Here is a sequence diagram that shows how to people would interact with the backend to vote.
 
