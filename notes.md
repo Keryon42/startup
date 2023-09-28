@@ -2,5 +2,14 @@
 ##Homework 1
 First time merging conflicts, so I figured out how that works. Fiddled a bit with git some more. 
 
+##ec2
+Setup server. public ip address is 35.153.96.24
+ssh command:
+ssh -i [pem file] ubuntu@35.153.96.24
+May need to upgrade server eventually
+
+##https
+Route 53 faied to acquire the domain name I requested, offered no reason why, and after I submitted a ticket got that domain name no issue. Work further ahead in the future.
+
 ##html: Structure
 Fiddled with html. More familiar with img, a, etc now. 

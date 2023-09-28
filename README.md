@@ -4,18 +4,17 @@ Zork. The Hitchhiker's Guide to the Galaxy. Dungeon Man. These games shaped all 
 
 ### Design
 
-![Login Screen]()
+![Login Screen](https://github.com/Keryon42/startup/blob/main/Images/Login%20mockup.PNG?raw=true)
+![Game](https://github.com/Keryon42/startup/blob/main/Images/Game%20mockup.PNG?raw=true)
+![Chat](https://github.com/Keryon42/startup/blob/main/Images/Chat%20mockup.PNG?raw=true)
 
-Here is a sequence diagram that shows how to people would interact with the backend to vote.
-
-![Voting sequence diagram](votingSequenceDiagram.png)
 
 ### Key features
 
 - Secure login over HTTPS
 - Progress stored persistently
 - Manual save button, logout button, etc. 
-- Real time "canned" messaging system, with room information available
+- Real time "canned" messaging system
 - Page that displays username and number of commands used to win
 
 ### Technologies
