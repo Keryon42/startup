@@ -32,3 +32,15 @@ I am going to use the required technologies in the following ways.
 - **Login** - Register and login users. Credentials securely stored in database. Without logging in no progress can be saved.
 - **WebSocket** - Canned chat allows real time limited communication between users, in lieu of any form of moderation. 
 - **React** - Application ported to use the React web framework.
+
+## HTML deliverable
+
+For this deliverable I built out the structure of my application using HTML.
+
+- **HTML pages** - Four html pages, a home/login page, an about page, a page listing those who have cleared the game, and the page where you play the game
+- **Links** - A directory at the top lets you navigate to any of the four pages. The about page has links to various inspirations for the game. 
+- **Text** - A brief description of the game on the about page, and some placeholder introductory text on the game page. 
+- **Images** - As of right now I don't feel that anywhere needs one, though I will likely use some occasionally in the game. 
+- **Login** - Input box and submit button for login, for now submit button just links to play page. 
+- **Database** - List of victors will be pulled from database.
+- **WebSocket** - Message button will open up messages left in local area and allow users to write their own. 
