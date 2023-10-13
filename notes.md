@@ -13,3 +13,6 @@ Route 53 faied to acquire the domain name I requested, offered no reason why, an
 
 ##html: Structure
 Fiddled with html. More familiar with img, a, etc now. 
+
+##CSS: Flex
+CSS is kind of a pain. Hard to find the most up to date method of doing something, took a lot of experimentation to figure some things out. 
