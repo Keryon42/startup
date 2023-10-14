@@ -7,6 +7,7 @@
     <title>Epos HTML</title>
     <link rel="icon" href="favicon.ico" />
     <link rel="stylesheet" href="main.css" />
+    <link rel="stylesheet" href="about.css"
 
     <!-- Include bootstrap CSS framework -->
     <link
@@ -38,20 +39,21 @@
       </nav>
     </header>
 
-    <main>
-      <div id="picture" class="picture-box"><img width="400px" src="https://images.pexels.com/photos/672636/pexels-photo-672636.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1.jpg" alt="random" /></div>
-      <p>
-        Epos is a text based adventure game inspired by works like Zork, Dungeon Man, and Homestuck.
-        It makes heavy use of multimedia elements (or at least it eventually will) inspired by things like the SCP Foundation, the Cosmosdex, and Homestuck again.
-      </p>
+    <main class="container-fluid text-center">
+      <div id="picture" class="picture-box"><img src="https://images.pexels.com/photos/672636/pexels-photo-672636.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1.jpg" alt="random" class="rounded"/></div>
+      <span id="intro">
+        <p>
+          Epos is a text based adventure game inspired by works like Zork, Dungeon Man, and Homestuck.
+          It makes heavy use of multimedia elements (or at least it eventually will) inspired by things like the SCP Foundation, the Cosmosdex, and Homestuck again.
+        </p>
+      </span>
 
 
-
-      <div id="quote">
-        <div>Do what you wish.</div>
-        <div>-The Neverending Story, by Michael Ende</div>
+      <div id="quote" class="quote-box text-light">
+        <div class="quote">Do what you wish.</div>
+        <div class="author">The Neverending Story, by Michael Ende</div>
       </div>
-      <table>
+      <table class="table table-dark">
         <thead>
           <tr>
             <th>Inspirations</th>
@@ -60,7 +62,8 @@
         <tbody>
           <tr>
             <td><a href="https://Homestuck.com">Homestuck</a></td>
-            <td>Try also: </td>
+          </tr>
+          <tr>
             <td><a href="https://bambosh.dev/unofficial-homestuck-collection/">Unofficial Homestuck Collection (Fixes broken flash pages)</a></td>
           </tr>
           <tr>
