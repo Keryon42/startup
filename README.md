@@ -44,3 +44,14 @@ For this deliverable I built out the structure of my application using HTML.
 - **Login** - Input box and submit button for login, for now submit button just links to play page. 
 - **Database** - List of victors will be pulled from database.
 - **WebSocket** - Message button will open up messages left in local area and allow users to write their own. 
+
+## CSS deliverable
+
+For this deliverable I built out the structure of my application using HTML.
+
+- **Header, footer, and main content body** - Styled from a main.css doc applied to all pages.
+- **Navigation Elements** - Title now links to homepage, improved visuals significantly.
+- **Responsive to window resising** - Most pages work at any size. For extremely small sizes the play page changes to display an error requesting you to resize the page. 
+- **Application elements** - Settling on a consistent style for text, buttons, and input. 
+- **Application text content** - Sans-serif used for most places, Courier used in game to give it a unique kind of feel.
+- **Application Images** - Image is still a placeholder till I have time to create a simple logo
