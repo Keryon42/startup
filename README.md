@@ -1,4 +1,4 @@
-# TITLE TBD
+# EPOS *Working Title*
 ## Elevator Pitch
 Zork. The Hitchhiker's Guide to the Galaxy. Dungeon Man. These games shaped all modern rpgs (Except maybe Dungeon Man.) But text based adventure games are not dead! As web apps become increasingly popular, and users become increasingly used to typing on their phones, a space opens up for narratively driven games that are easily controlled on from a mobile device. Most high paced games are difficult or impossible to control from a phone, but the deliberate, puzzle-driven pacing of a text based adventure game allows for an experience just as good on mobile as you'd get on any other device. And with modern technology, the limits of a text based adventure game can be pushed. The background and text color may grow dim in a dark cavern, the text may shake or even collapse under an earthquake, images can be easily embedded, and a method of leaving messages for other players can allow for hints and tips to collaboratively work towards the end goal. 
 
@@ -44,3 +44,14 @@ For this deliverable I built out the structure of my application using HTML.
 - **Login** - Input box and submit button for login, for now submit button just links to play page. 
 - **Database** - List of victors will be pulled from database.
 - **WebSocket** - Message button will open up messages left in local area and allow users to write their own. 
+
+## CSS deliverable
+
+For this deliverable I built out the structure of my application using HTML.
+
+- **Header, footer, and main content body** - Styled from a main.css doc applied to all pages.
+- **Navigation Elements** - Title now links to homepage, improved visuals significantly.
+- **Responsive to window resising** - Most pages work at any size. For extremely small sizes the play page changes to display an error requesting you to resize the page. 
+- **Application elements** - Settling on a consistent style for text, buttons, and input. 
+- **Application text content** - Sans-serif used for most places, Courier used in game to give it a unique kind of feel.
+- **Application Images** - Image is still a placeholder till I have time to create a simple logo
