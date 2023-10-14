@@ -1,0 +1,35 @@
+#game{ 
+    font-family: "Courier";
+    font-size: 20px;
+    overflow: hidden;
+    border-style: groove;
+    border-color: #26292e;
+    border-width: 10px;
+    height: 60vh;
+  }
+  #error{ 
+    font-family: "Courier";
+    font-size: 20px;
+    overflow: hidden;
+    border-style: groove;
+    border-color: #26292e;
+    border-width: 10px;
+    display: none;
+  }
+  #input {
+    height: 10vh;
+  }
+  @media (max-height: 400px) {
+    #game {
+        display: none;
+    }
+    #error {
+        display: inline-flex;
+    }
+    #input {
+        display: none;
+    }
+  }
+  
+
+  
