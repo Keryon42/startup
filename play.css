@@ -19,6 +19,7 @@
   #input {
     height: 10vh;
   }
+
   @media (max-height: 400px) {
     #game {
         display: none;

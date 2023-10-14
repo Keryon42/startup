@@ -14,6 +14,8 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: space-around;
+    font-family: sans-serif;
+
   }
   
   footer {
@@ -41,6 +43,16 @@ body {
     float: right;
   }
   
+  input[type="text"], textarea {
+    background-color: #202224;
+    color: white;
+  }
+
+  input[type="password"], textarea {
+    background-color: #202224;
+    color: white;
+  }
+
   @media (max-height: 600px) {
     header {
       display: none;
