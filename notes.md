@@ -16,3 +16,6 @@ Fiddled with html. More familiar with img, a, etc now.
 
 ##CSS: Flex
 CSS is kind of a pain. Hard to find the most up to date method of doing something, took a lot of experimentation to figure some things out. 
+
+##CSS: Deliverable
+CSS is a pain. I found some solutions for displaying text one character at a time, but nothing really works the way I want with just CSS, so come back to it with Javascript. 
