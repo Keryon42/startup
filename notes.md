@@ -19,3 +19,6 @@ CSS is kind of a pain. Hard to find the most up to date method of doing somethin
 
 ##CSS: Deliverable
 CSS is a pain. I found some solutions for displaying text one character at a time, but nothing really works the way I want with just CSS, so come back to it with Javascript. 
+
+##JS: Objects and Classes
+Object oriented stuff feels familiar. Syntax is kinda weird for Javascript, and weak typing makes me unhappy, but I'm starting to get a feel. 
